@@ -1,5 +1,5 @@
-README.rst -- Tools for teaching the open source projects seminar @ RIT
-=======================================================================
+README.rst -- Humanitarian Free/Open Source Software Course @ RIT
+=================================================================
 
 This is an all-purpose repository for storing some content, but mostly tools for
 teaching the open source projects seminar @ RIT.
