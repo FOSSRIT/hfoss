@@ -5,27 +5,27 @@ Projects Seminar in FLOSS Game Development
 ------------------------------------------
 
  - Syllabus - http://hfoss.rtfd.org/ -- (subject to change)
- - Course Number - 4080.445.01
- - Room - Room 2435, Golisano Building
- - Monday, Wednesday -- 10:00am-12:00noon
- - Instructor - Ralph Bean <rjbpop@rit.edu>
+ - Course Number - 4085.582.01
+ - Room - Bldg 87, Room 1600, RIT MAGIC Center
+ - Monday, Wednesday -- 5:00pm-6:15pm
+ - Instructor - Ralph Bean <remydcsi@rit.edu>
 
-   - Office:  The Center for Student Innovation
-   - Office Hours:  Monday, Wednesday, 12:00-1:00pm
+   - Office:  The MAGIC Center
+   - Office Hours:  Monday, Wednesday, 4:00-5:00pm
 
- - Teacher's Assistant - Nate Case <qalthos@gmail.com>.  ``qalthos`` in IRC.
- - IRC - irc.freenode.net, ``#floss-seminar``
+ - Teacher's Assistant - TBA <HFOSSTA@gmail.com>.  ``HFOSSTA`` in IRC.
+ - IRC - irc.freenode.net, ``#rit-foss``
  - Email list - `floss-seminar@lists.rit.edu
    <https://lists.rit.edu/mailman/listinfo.cgi/floss-seminar>`_
- - Blog Planet - http://threebean.org/floss-planet
+ - Blog Planet - http://foss.rit.edu/planet
  - The source for this syllabus can be found at
-   http://github.com/ralphbean/hfoss
+   http://github.com/FOSSRIT/hfoss
 
 Text Books
 ----------
 
-There is one textbook we'll be referencing throughout the quarter.  You can
-download it for free from http://open-advice.org
+There are a number of textbooks we'll be referencing throughout the quarter.  You can
+find these books at http://hfoss.rtfd.org/books
 
 What You'll Do
 --------------
