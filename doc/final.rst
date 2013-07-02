@@ -1,7 +1,7 @@
 Final
 =====
 
-8am on Tuesday, May 22nd.  Same room as usual, GOL-2435.
+TBA
 
 Requirements
 ------------
@@ -50,7 +50,7 @@ presentations.
 
    - Is the code clearly licensed under an OSI-compatible license?
    - Does your source repository contains Written instructions for future
-     developers.  How can they setup their environment to work on your project?
+     developers. How can they setup their environment to work on your project?
      What TODO items are left to do?
    - Does it work on python on a normal machine?
    - Does it work on the OLPC?
