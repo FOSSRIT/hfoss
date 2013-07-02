@@ -1,5 +1,5 @@
-Teaching Open Source @ RIT -- Projects Seminar
-==============================================
+Teaching Open Source @ RIT -- Humanitarian Free/Open Source Software Development
+================================================================================
 
 
 .. toctree::
