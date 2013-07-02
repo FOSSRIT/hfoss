@@ -1,5 +1,5 @@
-Teaching Open Source @ RIT -- Humanitarian Free/Open Source Software Development
-================================================================================
+Humanitarian Free/Open Source Software Development (HFOSS) @ RIT
+================================================================
 
 
 .. toctree::
