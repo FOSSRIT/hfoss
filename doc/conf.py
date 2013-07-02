@@ -25,8 +25,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Teaching Open Source @ RIT, Projects Seminar'
-copyright = u'2011, Ralph Bean, Rochester Institute of Technology'
+project = u'The FOSS@RIT HFOSS Development Course'
+copyright = u'2013, Ralph Bean & Remy DeCausemaker, Rochester Institute of Technology'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -160,7 +160,7 @@ htmlhelp_basename = 'HFOSS'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, document class [howto/manual]).
 latex_documents = [
-  ('index', 'rc.tex', ur'Teaching Open Source',
+  ('index', 'rc.tex', ur'HFOSS',
    ur'Ralph Bean', 'manual'),
 ]
 
