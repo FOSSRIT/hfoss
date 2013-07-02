@@ -3,7 +3,6 @@ html-output
 *.egg*
 *_build
 *.pyc
-*.pdf
 sphinxenv
 *.py~
 *~
