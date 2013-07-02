@@ -7,14 +7,14 @@ Gamely Challenges
 Is it fun?
     10 points.  Determined by classmates written review.
 
-Does Melissa (Prof. Bean's girlfriend) think its fun?
+Does Marie (Prof. decause's girlfriend) think its fun?
     5 points.
 
-Does Melissa (Prof. Bean's girlfriend) think its pretty?
+Does Marie (Prof. decause's girlfriend) think its pretty?
     5 points.
 
-How polished is it (card turning animation, choice of theme for back of cards, 3D visual representation of card values, etc.)
-    5 points.
+How polished is it (animation, choice of theme, 3D visual representation, etc.)
+    15 points.
 
 Are the rules clearly explained / easily understood?
     10 points.
@@ -24,7 +24,7 @@ Is it balanced?
 
 Lasting Appeal. Does it remain fun after multiple play throughs?  Will players keep coming back? (Also determined by classmates written review.)
     5 points.
- 
+
 Is it a complete, playable game? Are there any bugs?
     10 points.
 
@@ -35,9 +35,6 @@ Game includes instructions and/or a tutorial?
     5 points.
 
 Is it Intuitive (easy to learn)
-    10 points
-
-Does it have a polished feel to it?
     10 points
 
 Does the game include includestructions on how to play? (tutorials, help screens, readme.txt?)
@@ -67,11 +64,8 @@ Does it use COMET?
 Does it run on PC / MAC?
     5 points.
 
-Does it use CoffeScript?
-    5 points
-
 Does it use Python?
-    5 points
+    10 points
 
 Is it hosted on OpenShift or a similar PaaS?
     5 points
@@ -87,15 +81,6 @@ STEMly Challenges
 -----------------
 
 Does it meet criteria for a STEM challenge submission?
-    20 points
-
-Does it meet the criteria for a Sesame games submission?
-    20 points
-
-Does it meet the criteria for a PBS Kids submission?
-    20 points
-
-Does it meet the criteria for a Middle School prize submission?
     20 points
 
 Teamly Challenges
@@ -154,14 +139,11 @@ Does it hook into http://identi.ca?
 Is the documentation localized in another common language (e.g. German, Spanish, Russian)
     20 points per language.
 
+Does your README include pins or buttons?
+    2 points per button
+
 Easy 'A' Challenges
 -------------------
 
 Did it place in the STEM challenge?
-    100 points
-
-Did it get a head-nod from Big Bird?
-    100 points
-
-Did it get a head-nod from Cookie Monster?
     100 points
