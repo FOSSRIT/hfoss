@@ -8,7 +8,7 @@ Projects Seminar in FLOSS Game Development
  - Course Number - 4085.582.01
  - Room - Bldg 87, Room 1600, RIT MAGIC Center
  - Monday, Wednesday -- 5:00pm-6:15pm
- - Instructor - Ralph Bean <remydcsi@rit.edu>
+ - Instructor - Remy DeCausemaker <remydcsi@rit.edu>
 
    - Office:  The MAGIC Center
    - Office Hours:  Monday, Wednesday, 4:00-5:00pm
