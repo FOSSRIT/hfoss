@@ -1,7 +1,7 @@
 Text Books
 ----------
 
-    - `10 RULES FOR RADICALS by CARL MALAMUD <../doc/books/10rules-malamud.pdf>`_
+    - `10 RULES FOR RADICALS by CARL MALAMUD </doc/books/10rules-malamud.pdf>`_
     - `CODING FREEDOM: THE ETHICS AND AESTHETICS OF HACKING by E. GABRIELLA COLEMAN <../doc/books/Coleman-Coding-Freedom.pdf>`_
     - `RAPTURE OF THE NERDS by CORY DOCTOROW and CHARLES STROSS <../doc/books/Cory_Doctorow_and_Charles_Stross_-_Rapture_of_the_Nerds.pdf>`_
     - `HACKING POLITICS edited by DAVID MOON, PATRICK RUFFINI, AND DAVID SEGAL <../doc/books/hackingpolitics_txtwithcvfb.pdf>`_
