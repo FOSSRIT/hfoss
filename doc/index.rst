@@ -6,6 +6,7 @@ Humanitarian Free/Open Source Software Development (HFOSS) @ RIT
    :maxdepth: 2
 
    syllabus
+   books
    lectures
    helpfulhints
    README
